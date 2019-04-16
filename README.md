@@ -8,7 +8,7 @@ O arquivo do código todo está disposto nesse repositório com a extensão .ino
 
 Na imagem abaixo tem o circuito montado no tinkercad, para poder observar como foi feito, e na outra imagem será colocado os componentes utilizados no projeto, assim como o link para o projeto, podendo assim experimentar ele.
 
-![Circuito Screenshot](https://github.com/SquirrelArteeDesign/Buzzer/blob/master/images/Circuito.png)
+![Circuito Screenshot](https://github.com/SquirrelArteeDesign/Buzzer/blob/master/images/Circuito_buzzer.png)
 
 ![Componenetes Screenshot](https://github.com/SquirrelArteeDesign/Buzzer/blob/master/images/Componentes.png)
 
